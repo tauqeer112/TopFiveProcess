@@ -1,0 +1,7 @@
+USER    PID  CPU MEM VSZ     RSS  TTY STAT STRT TIME APP
+tauqeer 3083 0.5 1.8 4559664 151140 ? Sl 11:59 0:00 atom
+tauqeer 1785 1.1 3.0 1558960 245116 ? Sl 11:49 0:08 snap-store
+tauqeer 3027 14.2 3.0 4758980 246900 ? Sl 11:59 0:13 atom
+tauqeer 2968 3.7 3.1 4774232 249412 ? Sl 11:59 0:03 atom
+tauqeer 1559 1.2 3.2 4347588 257820 ? Ssl 11:49 0:08 gnome-shell
+MRU

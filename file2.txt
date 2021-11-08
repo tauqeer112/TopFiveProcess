@@ -1,0 +1,6 @@
+USER    PID  CPU MEM VSZ     RSS  TTY STAT STRT TIME APP
+tauqeer 1750 0.0 0.7 718728 59636 ? Sl अक्टूबर25 0:00 evolution-alarm-notify
+tauqeer 53637 0.2 0.9 1073168 72508 ? Sl अक्टूबर25 0:15 nautilus
+root 977 3.2 1.0 865856 87772 tty7 Ssl+ अक्टूबर25 26:53 Xorg
+tauqeer 1796 0.0 2.9 1469356 239348 ? Sl अक्टूबर25 0:11 snap-store
+tauqeer 1536 3.4 3.3 4738048 271504 ? Ssl अक्टूबर25 28:22 gnome-shell
